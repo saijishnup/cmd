@@ -6,6 +6,8 @@ A comprehensive beginner-friendly course on mastering the Command Prompt and Com
 
 ## Table of Contents
 
+Click on any chapter number to jump directly to that chapter in the course content.
+
 | Part | Chapter | Topic | Description |
 |------|---------|-------|-------------|
 | **A** | [1](Course-Content.md#chapter-1-echo) | `echo` | Display text output to the terminal |
@@ -20,6 +22,7 @@ A comprehensive beginner-friendly course on mastering the Command Prompt and Com
 | **B** | [10](Course-Content.md#chapter-10-mv-rm-rmdir--r) | `mv`, `rm`, `rmdir`, `-r` | Move, rename, and delete files/directories |
 | **B** | [11](Course-Content.md#chapter-11-cp-cp--r) | `cp`, `cp -r` | Copy files and directories |
 | **B** | [12](Course-Content.md#chapter-12-music-playlist) | Music Playlist | Interactive project using file operations |
+
 
 ---
 
