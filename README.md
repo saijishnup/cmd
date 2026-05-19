@@ -121,8 +121,8 @@ Complete the interactive projects in:
 
 ## Course Timeline
 
-**Started:** 19-05-2026 (afternoon)  
-**Completed:** 19-05-2026 (midnight)
+**Started:** 18-05-2026 (afternoon)  
+**Completed:** 18-05-2026 (midnight)
 
 ---
 
