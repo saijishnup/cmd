@@ -32,7 +32,6 @@ Click on any chapter number to jump directly to that chapter in the course conte
 **Chapters:** 1-6  
 Master the basics of navigating the filesystem and viewing file contents.
 
-i
 ### PART B: Manipulation
 **Chapters:** 7-12   
 Learn how to create, modify, move, copy, and delete files and directories.
